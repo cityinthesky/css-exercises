@@ -1,0 +1,17 @@
+.class {
+    background-color: coral;
+    font-family: Verdana, "DejuVu Sans", sans-serif;
+}
+
+#id {
+    color: blue;
+    font-size: 36px;
+}
+.class.cooler {
+    font-size: 24px;
+}
+#anotherId {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
